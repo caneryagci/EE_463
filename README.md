@@ -2,6 +2,6 @@
 EE_463 Hardware project
 
  Team members:
- Bekir Caner Yagci
- Tuna Yildiz
+ Bekir Caner Yagci,
+ Tuna Yildiz,
  Ugur Can Yilmaz
