@@ -2,9 +2,38 @@
 EE_463 Hardware project
 
  Team members:
- Bekir Caner Yagci,
- Tuna Yildiz,
- Ugur Can Yilmaz
+ 
+ 
+
+<p align="center">
+ 
+  Bekir Caner Yagci
+
+  <img src="https://github.com/caneryagci/EE_463-Hardware-Project/blob/master/Prof.%20Pic/caner.jpg" width="350"/>
+
+</p>
+
+<p align="center">
+ 
+  Tuna Yıldız
+  
+  <img src="https://github.com/caneryagci/EE_463-Hardware-Project/blob/master/Prof.%20Pic/tuna.jpg" width="350"/>
+
+</p>
+
+
+<p align="center">
+ 
+   Uğur Can YILMAZ
+  
+ <img src="https://github.com/caneryagci/EE_463-Hardware-Project/blob/master/Prof.%20Pic/ugur.jpg" width="350"/>
+
+</p>
+
+
+
+
+
 
 
 AC to DC Motor Drive
