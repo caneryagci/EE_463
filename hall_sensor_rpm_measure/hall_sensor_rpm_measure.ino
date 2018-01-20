@@ -4,10 +4,13 @@
  int val;//the digital value of the incoming analog signals
  int prev_val = 0;
  int t, cur_t; //time variables
+ int v_ref = ;           //referans hız girilecek
+ int rpm;
  void setup()
  {
    Serial.begin(115200);
    pinMode(A0, INPUT);
+   
  }
  void loop()//Measure RPM
  {
@@ -17,7 +20,9 @@
    if (prev_val == 0 && val == 1) { //check for rising edge
      cur_t = micros();
      Serial.println(1000000 * 60 / (cur_t - t)); //print the rpm
+     rpm= (1000000 * 60 / (cur_t - t));
      t = micros();
    }
    prev_val = val;
- }
+
+
