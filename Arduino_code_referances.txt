@@ -1,0 +1,2 @@
+http://www.arduino-tutorials.com/arduino-pwm/
+https://playground.arduino.cc/Code/PwmFrequency
