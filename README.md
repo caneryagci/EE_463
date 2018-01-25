@@ -1,5 +1,5 @@
 # EE_463
-EE_463 Hardware project
+EE_463 Hardware project - THD Defenders
 
  Team members:
  
