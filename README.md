@@ -1,4 +1,4 @@
-# EE_463
+# EE_463 THD Defenders
 EE_463 Hardware project - THD Defenders
 
  Team members:
