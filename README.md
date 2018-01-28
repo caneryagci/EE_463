@@ -1,6 +1,8 @@
 # EE_463 THD Defenders
 EE_463 Hardware project - THD Defenders
 
+[Project Video](https://www.youtube.com/watch?v=gRVRT1USEpw)
+
  Team members:
  
  
